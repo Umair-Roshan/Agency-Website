@@ -1,0 +1,67 @@
+.title {
+    border: 1px solid #A59D84;
+    color: #ECEBDE;
+    margin-left: 10px;
+
+}
+body {
+    background-color: #A59D84;
+}
+.title>h1 {
+    font-size: 6rem;
+    margin: 0%;
+    font-family: "Rubik Spray Paint", system-ui;
+    font-weight: 400;
+}
+.title>p {
+    font-size: 3em;
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    margin: 0%;
+    margin-top: 10px;
+}
+main>h2 {
+    text-decoration: underline;
+    font-size: 3rem;
+}
+.row-1 {
+    height: 775px;
+    border: 3px solid #A59D84;
+    margin: 0%;
+}
+img {
+    height: 770px;
+}
+#portfolio {
+    border: 3px solid #A59D84;
+    width: 643px;
+    height: 770px;
+    display: inline;
+}
+#portfolio img {
+    height: 100%;
+    margin: 0;
+    border-right: 5px solid black;
+}
+#meme {
+    display: inline;
+}
+#meme img {
+    height: 775px;
+    width: 520px;
+    float: right;
+    margin-left: -5px;
+}
+#flag {
+    display: inline;
+}
+#flag img{
+    width: 870px;
+    height: 775px;
+    margin: 0%;
+    margin-left: -2px;
+    border-right: 5px solid black;
+}
+h2 {
+    color: #D7D3BF;
+}
